@@ -1,0 +1,19 @@
+{
+	"info": {
+		"_postman_id": "2e881502-9589-4193-bb61-ea2f88f74682",
+		"name": "Global Usage Collection Example",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "44242587",
+		"_collection_link": "https://ammarrizvi-2485117.postman.co/workspace/SDET-with-Jatin~923fb665-8244-4d0f-b266-749c66912738/collection/44242587-2e881502-9589-4193-bb61-ea2f88f74682?action=share&source=collection_link&creator=44242587"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
