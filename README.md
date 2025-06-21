@@ -6,7 +6,10 @@ the Virtual Machine with the help of newman and newman-reporter-htmlextra.Github
 The HTML report is archieved and kept in the artifact section for the teamto download it. Along with that they can view the report directly from the github page :https://github.com/AmmarRizviQA/Phoenix-Inwarrenty-Flow/ . 
 The latest report is mailed to the team member using GMAIL SMIP.
 
-## TEch Stack ##
+## About Me ##
+Hi My name is Ammar Rizvi. I have 5+ years of experience in Automation Testing and Manual Testing. My Skillset Includes UI Automation with Selenium Webdriver, API testing with Postman and Rest Assured. you can connect me over (https://www.linkedin.com/in/ammar-rizvi-b66ba616a/)
+
+## Tech Stack ##
 1. Postman
 2. Nodejs 22v
 3. Newman
